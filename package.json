@@ -121,7 +121,7 @@
   },
   "devDependencies": {
     "@changesets/cli": "latest",
-    "lodash": "4.17.13",
+    "lodash": "4.17.21",
     "@jest/types": "29.5.0",
     "@svitejs/changesets-changelog-github-compact": "latest",
     "@types/jest": "29.5.7",
